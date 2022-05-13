@@ -117,7 +117,7 @@ The operators `&&` and `||` have equal precedence, followed by `;`.
 
 ## Authors
 * Dominic Samoes <[DominicSamoes](https://www.linkedin.com/in/dominic-samo-754014187/)> - Swati-Mozambican Software Engineer and Data Scientist
-* Fadil Surur <[Fadil1212](https://github.com/Fadil1212)> - Ethipian Software Engineer
+* Fadil Surur <[Fadil1212](https://github.com/Fadil1212)> - Ethiopian Software Engineer
 
 ## Acknowledgements
 **Shellby** emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
