@@ -1,7 +1,7 @@
 /*
  * File: main.c
  * Auth: Dominic Samo
- *       Your Name
+ *       Fadil Surur
  */
 
 #include "shell.h"
