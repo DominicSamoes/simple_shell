@@ -1,7 +1,7 @@
 /*
  * File: locate.c
  * Auth: Dominic
- *       Your name
+ *       Fadil
  */
 
 #include "shell.h"
