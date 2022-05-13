@@ -1,7 +1,7 @@
 /*
  * File: str_funcs2.c
  * Auth: Dominic Samo
- *       Your Name
+ *       Fadil Surur
  */
 
 #include "shell.h"
